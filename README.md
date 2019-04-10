@@ -1,6 +1,9 @@
 # Excel
-<pre>Fast fourier transform in excel
-inverse fourier transform in excel
-remove noise with fft
-forecast with fft. period  
+<pre>
+
+If you want to better understand the fourier analysis in excel.This worksheet has:
+fast transforms fourier
+inverse fast transform fourier
+Denoise
+Forecast with period
 </pre>
