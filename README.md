@@ -1,4 +1,4 @@
-# Excel
+# FFT in EXCEL
 <pre>
 
 If you want to better understand the fourier analysis in excel.This worksheet has:
